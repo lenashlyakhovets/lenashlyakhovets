@@ -34,6 +34,7 @@
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f05033)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=0c62dc)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=00758f)
 
 ---
 
